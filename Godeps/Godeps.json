@@ -1,0 +1,16 @@
+{
+	"ImportPath": "github.com/simonswine/go-fib-cpu-waste",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "github.com/codegangsta/negroni",
+			"Comment": "v0.1-62-g8d75e11",
+			"Rev": "8d75e11374a1928608c906fe745b538483e7aeb2"
+		},
+		{
+			"ImportPath": "github.com/thoas/stats",
+			"Rev": "152b5d051953fdb6e45f14b6826962aadc032324"
+		}
+	]
+}
